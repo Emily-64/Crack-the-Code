@@ -15,5 +15,4 @@ The app provides hints ("Too high!", "Too low!") until the correct number is gue
 
 ---
 
-## 🚀 Live Demo
-👉 
+
