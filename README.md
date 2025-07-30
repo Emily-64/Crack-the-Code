@@ -1,11 +1,11 @@
-# 🎲 Crack the Code! – Number Guessing Game
+ Crack the Code! – Number Guessing Game
 
 A fun web-based number guessing game where the player tries to guess a random number between 1 and 100.  
 The app provides hints ("Too high!", "Too low!") until the correct number is guessed.
 
 ---
 
-## 🧮 Features
+ Features
 - Random number between 1 and 100
 - Input validation
 - Hints after each guess
