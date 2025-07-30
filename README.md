@@ -15,4 +15,5 @@ The app provides hints ("Too high!", "Too low!") until the correct number is gue
 
 ---
 
-
+ 🚀 Live Demo
+Play it here: [Crack the Code](https://Emily-64.github.io/Crack-the-Code/)
